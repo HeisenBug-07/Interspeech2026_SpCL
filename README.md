@@ -1,4 +1,4 @@
-
+# This paper has been accepted at Interspeech 2026, Sydney
 # SpCL: Semi-positive Contrastive Learning for Spoken Language Identification
 
 **SpCL** is a high-performance framework for robust **Spoken Language Identification (LID)** across 12 Indian languages. By introducing a novel **semi-positive contrastive loss** and an audio-text dual encoder, it masters **cross-domain generalization** (e.g., training on broadcast TV and testing on YouTube) without requiring explicit target-domain data.
